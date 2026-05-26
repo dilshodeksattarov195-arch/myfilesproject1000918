@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "loggervonnect",
+        "uuid": 3682098,
+        "checksum": "izblr3"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": true,
+        "mode": "staging"
+    }
+}
